@@ -1,0 +1,24 @@
+
+# -------------------------------------------------------------------------------
+# Filename:    common-constants 
+# Version:     2.0.0
+# Date:        2018-11-20
+# Author:      LiuBaoWen
+# Email:       bwliush@cn.ibm.com
+# Description: 公用变量
+# Notes:       
+# -------------------------------------------------------------------------------
+
+#remote-exec-dir
+remote_exec_dir='/opt/app/temp/sh/'
+
+#log-dir
+log_dir='/root/work/log'
+
+ftp_address='10.100.200.177'
+
+ftp_user='ftpdoc'
+
+ftp_passwd='ftpdoc123'
+
+ftp_path='/doc/cfm/backup'
