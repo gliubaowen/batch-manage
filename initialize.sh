@@ -3,7 +3,7 @@
 # -------------------------------------------------------------------------------
 # Filename:    initialize.sh 
 # Version:     2.0.0
-# Date:        2018-10-17
+# Date:        2019-02-17
 # Author:      LiuBaoWen
 # Email:       bwliush@cn.ibm.com
 # Description: 初始化项目
