@@ -13,7 +13,7 @@
 remote_exec_dir='/opt/app/temp/sh/'
 
 #log-dir
-log_dir='/root/work/log'
+log_dir='/opt/logs/batch-manage'
 
 ftp_address='10.100.200.177'
 
